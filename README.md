@@ -28,7 +28,7 @@ This repository showcases selected academic, personal, and professional engineer
 ---
 
 
-## Disclaimer  
+### Disclaimer  
 All project files, images, and documentation related to previous internship experiences  
 are shared here with formal permission from the respective workplaces and are presented  
 strictly for portfolio purposes. No proprietary or confidential information has been disclosed.
