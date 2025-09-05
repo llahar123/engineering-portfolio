@@ -9,19 +9,14 @@ This repository showcases selected academic, personal, and professional engineer
 
 ### Internships
 - [Fabric8Labs Internship](./Fabric8Labs-Internship/)  
-  Todo
 - [Tivoly Internship](./Tivoly-Internship/)  
-  Todo
 
 ### Cornell Formula Racing
 - [Cornell FSAE](./Cornell-FSAE/)  
-  Todo
 
 ### Projects
 - [Academic Projects](./Academic-Projects/)  
-  Todo
 - [Personal Projects](./Personal-Projects/)  
-  Todo
 
 
 ---
