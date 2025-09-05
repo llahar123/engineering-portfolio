@@ -22,9 +22,14 @@ This repository showcases selected academic, personal, and professional engineer
 ---
 
 ## Contact
-Email: ljl97@cornell.edu
-LinkedIn: [https://www.linkedin.com/in/liamlahar/](URL)
+- Email: ljl97@cornell.edu
+- LinkedIn: [https://www.linkedin.com/in/liamlahar/](URL)
 
 ---
 
-> This repository is a living document and will be updated as new projects are completed.
+
+## Disclaimer  
+All project files, images, and documentation related to previous internship experiences  
+are shared here with formal permission from the respective workplaces and are presented  
+strictly for portfolio purposes. No proprietary or confidential information has been disclosed.
+
