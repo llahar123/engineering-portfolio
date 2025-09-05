@@ -7,15 +7,15 @@ This repository showcases selected academic, personal, and professional engineer
 ## Project Index
 
 ### Internships
-- [Fabric8Labs Internship](./Fabric8Labs-Internship/)  
-- [Tivoly Internship](./Tivoly-Internship/)  
+- [Fabric8Labs Internship](./Fabric8Labs-Internship/README.md)  
+- [Tivoly Internship](./Tivoly-Internship/README.md)  
 
 ### Cornell Formula Racing
-- [Cornell FSAE](./Cornell-FSAE/)  
+- [Cornell FSAE](./Cornell-FSAE/README.md)  
 
 ### Projects
-- [Academic Projects](./Academic-Projects/) *(Todo)*  
-- [Personal Projects](./Personal-Projects/) *(Todo)*  
+- [Academic Projects](./Academic-Projects/README.md) *(Todo)*  
+- [Personal Projects](./Personal-Projects/README.md) *(Todo)*  
 
 ---
 
