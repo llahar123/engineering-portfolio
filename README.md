@@ -15,22 +15,15 @@ This repository showcases selected academic, personal, and professional engineer
 - [Cornell FSAE](./Cornell-FSAE/)  
 
 ### Projects
-- [Academic Projects](./Academic-Projects/)  
-- [Personal Projects](./Personal-Projects/)  
+- [Academic Projects](./Academic-Projects/)  (Todo)
+- [Personal Projects](./Personal-Projects/)  (Todo)
 
 
 ---
 
-## About Me
-
-I'm Liam Lahar, an ECE undergrad... Todo
-
-[GitHub](https://github.com/llahar123)  
-TODO: Add
--Linkedin
--Resume
--etc
-Email: ljl [at] Cornell [dot] edu
+## Contact
+Email: ljl97@cornell.edu
+LinkedIn: [https://www.linkedin.com/in/liamlahar/](URL)
 
 ---
 
